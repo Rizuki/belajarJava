@@ -2,7 +2,7 @@ public class caseOf {
     public static void main(String[] args) {
 
         var nilai = "A";
-
+        //tes commit
         switch (nilai){
             case "A":
                 System.out.println("Sangat bagus");
