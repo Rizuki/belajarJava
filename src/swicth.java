@@ -1,5 +1,3 @@
-package java.dasar;
-
 public class swicth {
     public static void main(String[] args) {
 

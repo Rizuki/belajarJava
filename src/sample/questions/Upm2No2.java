@@ -15,8 +15,8 @@ public class Upm2No2 {
 
         System.out.println("Angka yang dapat membagi "+angka+" tanpa sisa adalah");
         for (int i = 1 ; i <= angka ; i++){
-            if (angka % i == 0){
-                System.out.print(i+ " ");
+            if (angka % i == 0 ){
+                System.out.print(i+" ");
             }
         }
     }

@@ -1,5 +1,3 @@
-package java.dasar;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 public class nestedIf{
