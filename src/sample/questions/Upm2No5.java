@@ -7,7 +7,7 @@ public class Upm2No5 {
         Scanner input = new Scanner(System.in);
         int [] arrayInt = new int[5];
 
-        for (int i = 0 ; i < 5 ; i++ ){
+        for (int i = 0 ; i < arrayInt.length ; i++ ){
             System.out.print("Input bilangan ke-"+(i+1)+" : " );
             arrayInt[i] = input.nextInt();
         }

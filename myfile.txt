@@ -1,0 +1,1 @@
+Each class represents one real-world idea.
