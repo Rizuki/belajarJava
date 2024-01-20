@@ -21,7 +21,7 @@ public class projectCRUD {
             System.out.println("4.\t Ubah Data buku");
             System.out.println("5.\t Hapus Data buku");
 
-            System.out.print("\n\nMasukan Pilihan :");
+            System.out.print("\n\nMasukan Pilihan : ");
             pilihanUser = input.nextLine();
 
             switch (pilihanUser) {
