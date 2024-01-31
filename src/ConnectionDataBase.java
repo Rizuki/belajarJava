@@ -1,9 +1,9 @@
 import java.sql.*;
 
-public class ConnectionDataBase {
+public class ConnectionDatabase {
     public static void main(String[] args) throws Exception {
         Class.forName("org.sqlite.JDBC");
-        Connection con = DriverManager.getConnection("jdbc:sqlite:coba.db");
+        Connection con = DriverManager.getConnection("jdbc:sqlite:kampus.db");
         Statement st = con.createStatement();
 
         st.executeUpdate("drop table if exists mhs;");
@@ -12,6 +12,8 @@ public class ConnectionDataBase {
         st.executeUpdate("insert into mhs values (678,'aryo');");
         st.executeUpdate("insert into mhs values (789,'linda');");
         st.executeUpdate("insert into mhs values (890,'heni');");
+        st.executeUpdate("insert into mhs values (900,'Edi');");
+        st.executeUpdate("insert into mhs values (930,'Irawan');");
 
         st.executeUpdate("update mhs set nama='haya' where npm=235;");
         st.executeUpdate("update mhs set nama='ario' where nama='aryo';");

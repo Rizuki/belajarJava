@@ -4,3 +4,5 @@ purcell_2009_1,2009,purcell,wiley,calculus
 faqihza_2019_1,2019,faqihza,gramedia,belajar C++
 faqihza_2019_2,2019,faqihza,gramedia,belajar python
 Andreanhirata_2019_3,2019,Laskar Pelangi,media,Sang Mimpi
+ediirawan_2024_1,2024,edi irawan,gramedia,teknologi dimasa depan
+ediirawan_2024_2,2024,edi irawan,gramedia,umkm dan teknologi

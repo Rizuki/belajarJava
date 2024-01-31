@@ -1,11 +1,14 @@
 <component name="libraryTable">
   <library name="sqlite-jdbc-3.7.2">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../Program Files/sqlite/sqlite-jdbc-3.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../sqlite/sqlite-jdbc-3.7.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../../Program Files/sqlite/sqlite-jdbc-3.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../sqlite/sqlite-jdbc-3.7.2.jar!/" />
     </SOURCES>
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/../sqlite/sqlite-jdbc-3.7.2.jar!/" />
+    </excluded>
   </library>
 </component>
